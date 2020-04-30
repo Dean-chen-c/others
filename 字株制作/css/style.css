@@ -1,0 +1,16 @@
+h1 {
+  font-size: 36px;
+  color: #ccc;
+  font-family: "syst";
+}
+
+@font-face {
+  font-family: "syst";
+  src: url("../font/SR.eot");
+  src: url("../font/SR.eot?#font-spider") format("embedded-opentype"),
+    url("../font/SR.woff") format("woff"),
+    url("../font/SR.ttf") format("truetype"),
+    url("../font/SR.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
