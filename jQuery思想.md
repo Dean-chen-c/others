@@ -1,5 +1,10 @@
 ### jQuery思想
 
+- 整个沙箱
+- 无news实例化
+- 方便插件扩展
+- 链式调用
+
 ```js
 (function () {
   var class2type = {};
